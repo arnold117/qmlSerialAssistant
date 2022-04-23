@@ -1,5 +1,9 @@
+QMAKE_MACOSX_DEPLOYMENT_TARGET = 10.14
+
 QT += quick
 QT += serialport
+
+
 
 # You can make your code fail to compile if it uses deprecated APIs.
 # In order to do so, uncomment the following line.
