@@ -7,8 +7,7 @@ QT += serialport
 
 SOURCES += \
         main.cpp \
-        myserialport.cpp \
-        myserialport.h
+        myserialport.cpp
 
 RESOURCES += qml.qrc
 
